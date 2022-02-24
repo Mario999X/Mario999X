@@ -16,21 +16,38 @@
   
     ![Guts Lluvia](https://user-images.githubusercontent.com/80423737/155512481-d96f2066-3ad8-4a8f-9efa-07b2840a327b.gif)  
 
-## 🎬 OBRAS Y VIDEOJUEGOS FAVORITOS
+## 🎬 OBRAS FAVORITAS
 
 <details>
-  <summary> Crear Lista </summary>
+  <summary> Manga </summary>
   
-  - Berserk (Manga).
-  - Uzumaki (Manga).
-  - Death Note (Manga-Anime).
-  - Dragon Ball/Z (Manga-Anime).
-  - Saga Metro (Videojuegos-Libros).
-  - Cowboy Bebop (Anime).
-  - Ghost In The Shell (Película Anime).
-  - Blade Runner (Película original y 2049).
-  - Saga Dark Souls y Bloodborne (Videojuegos).
-  - DOOM y DOOM ETERNAL (Videojuegos).
+  - Berserk
+  - Uzumaki
+  </details>
+  
+  <details>
+    <summary> Anime </summary>
+  
+    - Death Note (+ Manga)
+    - Dragon Ball/Z (+ Manga).
+    - Cowboy Bebop
+    - Ghost In The Shell (Película).
+  </details>
+  
+  <details>
+    <summary> Películas </summary>
+  
+    - Blade Runner (Original y 2049).
+    - El club de la lucha.
+    - El faro.
+  </details>
+  
+  <details>
+    <summary> Videojuegos </summary>
+  
+    - Saga Metro (+ Libros).
+    - Saga Dark Souls y Bloodborne
+    - DOOM y DOOM ETERNAL
   </details>
 
   ![Doom Wallpaper](https://user-images.githubusercontent.com/80423737/155528061-934a9674-8a88-4a97-8abb-8b829c0e7c25.jpg)
