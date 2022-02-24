@@ -6,7 +6,9 @@
   - Me considero una persona responsable, muy profesional, y a veces demasiado perfeccionista.
 
 ## 🗿 INFORMACIÓN PERSONAL
+  - Actualmente tengo 20 años.
   - Me apasiona el mundo de la tecnología.
+  - Estuve 13 años aprendiendo karate (Club Víctor Pradera).
   - BLOODBORNE es el mejor juego de la historia.
   - Odio eterno a los smurfs en juegos pvp.
   - Me encanta la temática cyberpunk y apocalíptico en obras de ficción.
