@@ -20,34 +20,36 @@
 
 <details>
   <summary> Manga </summary>
+  
   - Berserk
   - Uzumaki
   </details>
   
-  <details>
-    <summary> Anime </summary>
+<details>
+  <summary> Anime </summary>
   
-    - Death Note (+ Manga).
-    - Dragon Ball/Z (+ Manga).
-    - Cowboy Bebop
-    - Ghost In The Shell (Película).
-  </details>
+  - Death Note (+ Manga).
+  - Dragon Ball/Z (+ Manga).
+  - Cowboy Bebop
+  - Ghost In The Shell (Película).
   
-  <details>
-    <summary> Películas </summary>
+</details>
   
-    - Blade Runner (Original y 2049).
-    - El club de la lucha.
-    - El faro.
-  </details>
+<details>
+  <summary> Películas </summary>
   
-  <details>
-    <summary> Videojuegos </summary>
+  - Blade Runner (Original y 2049).
+  - El club de la lucha.
+  - El faro.
+</details>
   
-    - Saga Metro (+ Libros).
-    - Saga Dark Souls y Bloodborne
-    - DOOM y DOOM ETERNAL
-  </details>
+<details>
+  <summary> Videojuegos </summary>
+  
+  - Saga Metro (+ Libros).
+  - Saga Dark Souls y Bloodborne
+  - DOOM y DOOM ETERNAL
+</details>
 
   ![Doom Wallpaper](https://user-images.githubusercontent.com/80423737/155528061-934a9674-8a88-4a97-8abb-8b829c0e7c25.jpg)
 
