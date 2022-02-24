@@ -34,6 +34,8 @@
   - Ghost In The Shell (Película).
   - Evangelion (Serie + Películas).
   - One Punch-Man (+ Manga).
+  - Perfect Blue (Película).
+  - Devilman Crybaby
 </details>
 
 <details>
