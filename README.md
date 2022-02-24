@@ -3,7 +3,7 @@
 ## Actualmente estudiando DAM.
 
 <p>
-<img src="https://c.tenor.com/GB2kusUamFYAAAAC/guts-berserk-guts.gif"/>
+![guts-berserk-guts](https://user-images.githubusercontent.com/80423737/155512481-d96f2066-3ad8-4a8f-9efa-07b2840a327b.gif)
 </p>
 
 <!--
