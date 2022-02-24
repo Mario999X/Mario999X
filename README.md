@@ -21,7 +21,7 @@
   - Uzumaki (Manga).
   - Death Note (Manga-Anime).
   - Dragon Ball/Z (Manga-Anime).
-  - Metro (videojuegos y libros).
+  - Saga Metro (Videojuegos y libros).
   - Cowboy Bebop (Anime).
   - Ghost In The Shell (Película anime).
   - Blade Runner (Película original y 2049).
