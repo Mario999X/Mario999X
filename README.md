@@ -14,7 +14,7 @@
   - Me encanta la temática cyberpunk y apocalíptico en obras de ficción.
   - Aún incompleto, considero a BERSERK una de las mejores obras jamás escritas.
   
-    ![](https://user-images.githubusercontent.com/80423737/155512481-d96f2066-3ad8-4a8f-9efa-07b2840a327b.gif)  
+    ![Guts Lluvia](https://user-images.githubusercontent.com/80423737/155512481-d96f2066-3ad8-4a8f-9efa-07b2840a327b.gif)  
 
 ## 🎬 OBRAS Y VIDEOJUEGOS FAVORITOS
   - Berserk (Manga).
@@ -28,7 +28,7 @@
   - Saga Dark Souls y Bloodborne (Videojuegos).
   - DOOM y DOOM ETERNAL (Videojuegos).
 
-  ![thumb-1920-686773](https://user-images.githubusercontent.com/80423737/155528061-934a9674-8a88-4a97-8abb-8b829c0e7c25.jpg)
+  ![Doom Wallpaper](https://user-images.githubusercontent.com/80423737/155528061-934a9674-8a88-4a97-8abb-8b829c0e7c25.jpg)
 
 
   
