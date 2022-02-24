@@ -22,6 +22,7 @@
   
   - Berserk
   - Uzumaki
+  - Dragon Head
   </details>
   
 <details>
@@ -33,17 +34,18 @@
   - Ghost In The Shell (Película).
   - Evangelion (Serie + Películas).
   - One Punch-Man (+ Manga).
-  
 </details>
 
 <details>
   <summary> Videojuegos </summary>
   
-  - Saga Dark Souls y Bloodborne
+  - Saga Dark Souls (1 y 3) y Bloodborne
   - Saga Metro (+ Libros).
   - DOOM y DOOM ETERNAL
   - Saga Deus Ex
   - Fallout New Vegas
+  - Saga NieR
+  - Saga Metal Gear Solid (1, 2, 3).
 </details>
 
   ![Doom Wallpaper](https://user-images.githubusercontent.com/80423737/155528061-934a9674-8a88-4a97-8abb-8b829c0e7c25.jpg)
