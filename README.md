@@ -21,9 +21,9 @@
   - Uzumaki (Manga).
   - Death Note (Manga-Anime).
   - Dragon Ball/Z (Manga-Anime).
-  - Saga Metro (Videojuegos y libros).
+  - Saga Metro (Videojuegos-Libros).
   - Cowboy Bebop (Anime).
-  - Ghost In The Shell (Película anime).
+  - Ghost In The Shell (Película Anime).
   - Blade Runner (Película original y 2049).
   - Saga Dark Souls y Bloodborne (Videojuegos).
   - DOOM y DOOM ETERNAL (Videojuegos).
