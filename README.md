@@ -15,15 +15,16 @@
     ![](https://user-images.githubusercontent.com/80423737/155512481-d96f2066-3ad8-4a8f-9efa-07b2840a327b.gif)  
 
 ## 🎬 OBRAS Y VIDEOJUEGOS FAVORITOS
-  - Berserk
-  - Uzumaki
-  - Death Note
-  - Dragon Ball/Z
+  - Berserk (Manga).
+  - Uzumaki (Manga).
+  - Death Note (Manga-Anime).
+  - Dragon Ball/Z (Manga-Anime).
   - Metro (videojuegos y libros).
-  - Cowboy Bebop
-  - Ghost in the shell (película anime).
-  - Blade Runner (original y 2049).
-  - Saga Dark Souls y Bloodborne
+  - Cowboy Bebop (Anime).
+  - Ghost in the shell (Película anime).
+  - Blade Runner (Película original y 2049).
+  - Saga Dark Souls y Bloodborne (Videojuegos).
+  - DOOM y DOOM ETERNAL (Videojuegos).
 
   
 <!--
