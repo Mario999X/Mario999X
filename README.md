@@ -46,8 +46,8 @@
 <details>
   <summary> Videojuegos </summary>
   
-  - Saga Metro (+ Libros).
   - Saga Dark Souls y Bloodborne
+  - Saga Metro (+ Libros).
   - DOOM y DOOM ETERNAL
 </details>
 
