@@ -23,7 +23,7 @@
   - Dragon Ball/Z (Manga-Anime).
   - Metro (videojuegos y libros).
   - Cowboy Bebop (Anime).
-  - Ghost in the shell (Película anime).
+  - Ghost In The Shell (Película anime).
   - Blade Runner (Película original y 2049).
   - Saga Dark Souls y Bloodborne (Videojuegos).
   - DOOM y DOOM ETERNAL (Videojuegos).
