@@ -1,6 +1,10 @@
 # Hello there 👋
 
 ## Actualmente estudiando DAM.
+
+<img src="https://c.tenor.com/GB2kusUamFYAAAAC/guts-berserk-guts.gif" />
+
+
 <!--
 **Mario999X/Mario999X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
