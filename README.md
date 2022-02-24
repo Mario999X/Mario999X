@@ -3,7 +3,7 @@
 ![](https://user-images.githubusercontent.com/80423737/155512481-d96f2066-3ad8-4a8f-9efa-07b2840a327b.gif)
 
 
-            💻 LISTA PROFESIONAL 💻
+    💻 LISTA PROFESIONAL 💻
   - Actualmente cursando DAM, en el centro IES Luis Vives.
   - Aprendiendo Java, Python y CSS.
 
