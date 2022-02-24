@@ -11,9 +11,21 @@
   - Odio eterno a los smurfs en juegos pvp.
   - Me encanta la temática cyberpunk y apocalíptico en obras de ficción.
   - Aún incompleto, considero a BERSERK una de las mejores obras jamás escritas.
+  
+    ![](https://user-images.githubusercontent.com/80423737/155512481-d96f2066-3ad8-4a8f-9efa-07b2840a327b.gif)  
 
-    ![](https://user-images.githubusercontent.com/80423737/155512481-d96f2066-3ad8-4a8f-9efa-07b2840a327b.gif)
-
+## 🎬 OBRAS Y VIDEOJUEGOS FAVORITOS
+  - Berserk
+  - Uzumaki
+  - Death Note
+  - Dragon Ball/Z
+  - Metro (videojuegos y libros).
+  - Cowboy Bebop
+  - Ghost in the shell (película anime).
+  - Blade Runner (original y 2049).
+  - Saga Dark Souls y Bloodborne
+  
+    
 <!--
 **Mario999X/Mario999X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
