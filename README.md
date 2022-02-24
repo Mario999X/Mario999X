@@ -5,6 +5,10 @@
   - Aprendiendo Java, Python y CSS; y su uso en aplicaciones de escritorio y Android.
   - Me considero una persona responsable, y a veces demasiado perfeccionista.
 
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario999X&theme=react">
+      <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario999X&theme=react&layout=compact" height="220"/>
+    </a> 
+
 ## 🗿 INFORMACIÓN PERSONAL
   - Actualmente tengo 20 años.
   - Me apasiona el mundo de la tecnología.
