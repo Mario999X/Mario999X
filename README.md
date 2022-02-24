@@ -17,6 +17,10 @@
     ![Guts Lluvia](https://user-images.githubusercontent.com/80423737/155512481-d96f2066-3ad8-4a8f-9efa-07b2840a327b.gif)  
 
 ## 🎬 OBRAS Y VIDEOJUEGOS FAVORITOS
+
+<details>
+  <summary> Crear Lista </summary>
+  
   - Berserk (Manga).
   - Uzumaki (Manga).
   - Death Note (Manga-Anime).
@@ -27,6 +31,7 @@
   - Blade Runner (Película original y 2049).
   - Saga Dark Souls y Bloodborne (Videojuegos).
   - DOOM y DOOM ETERNAL (Videojuegos).
+  </details>
 
   ![Doom Wallpaper](https://user-images.githubusercontent.com/80423737/155528061-934a9674-8a88-4a97-8abb-8b829c0e7c25.jpg)
 
