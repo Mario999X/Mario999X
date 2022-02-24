@@ -24,8 +24,8 @@
   - Ghost in the shell (película anime).
   - Blade Runner (original y 2049).
   - Saga Dark Souls y Bloodborne
+
   
-    
 <!--
 **Mario999X/Mario999X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
