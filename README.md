@@ -3,7 +3,7 @@
 ## 💻 INFORMACIÓN PROFESIONAL
   - Actualmente cursando DAM, en el centro IES Luis Vives.
   - Aprendiendo Java, Python y CSS; y su uso en aplicaciones de escritorio y Android.
-  - Me considero una persona responsable, muy profesional, y a veces demasiado perfeccionista.
+  - Me considero una persona responsable, y a veces demasiado perfeccionista.
 
 ## 🗿 INFORMACIÓN PERSONAL
   - Actualmente tengo 20 años.
@@ -17,7 +17,6 @@
     ![Guts Lluvia](https://user-images.githubusercontent.com/80423737/155512481-d96f2066-3ad8-4a8f-9efa-07b2840a327b.gif)  
 
 ## 🎬 OBRAS FAVORITAS
-
 <details>
   <summary> Manga </summary>
   
@@ -32,23 +31,19 @@
   - Dragon Ball/Z (+ Manga).
   - Cowboy Bebop
   - Ghost In The Shell (Película).
+  - Evangelion (Serie + Películas).
+  - One Punch-Man (+ Manga).
   
 </details>
-  
-<details>
-  <summary> Películas </summary>
-  
-  - Blade Runner (Original y 2049).
-  - El club de la lucha.
-  - El faro.
-</details>
-  
+
 <details>
   <summary> Videojuegos </summary>
   
   - Saga Dark Souls y Bloodborne
   - Saga Metro (+ Libros).
   - DOOM y DOOM ETERNAL
+  - Saga Deus Ex
+  - Fallout New Vegas
 </details>
 
   ![Doom Wallpaper](https://user-images.githubusercontent.com/80423737/155528061-934a9674-8a88-4a97-8abb-8b829c0e7c25.jpg)
