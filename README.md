@@ -28,6 +28,9 @@
   - Saga Dark Souls y Bloodborne (Videojuegos).
   - DOOM y DOOM ETERNAL (Videojuegos).
 
+  ![thumb-1920-686773](https://user-images.githubusercontent.com/80423737/155528061-934a9674-8a88-4a97-8abb-8b829c0e7c25.jpg)
+
+
   
 <!--
 **Mario999X/Mario999X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
