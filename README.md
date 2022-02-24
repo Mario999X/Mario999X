@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hello there 👋
 
+## Actualmente estudiando DAM.
 <!--
 **Mario999X/Mario999X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
