@@ -20,7 +20,6 @@
 
 <details>
   <summary> Manga </summary>
-  
   - Berserk
   - Uzumaki
   </details>
@@ -28,7 +27,7 @@
   <details>
     <summary> Anime </summary>
   
-    - Death Note (+ Manga)
+    - Death Note (+ Manga).
     - Dragon Ball/Z (+ Manga).
     - Cowboy Bebop
     - Ghost In The Shell (Película).
