@@ -52,6 +52,7 @@
   - Fallout New Vegas
   - Saga NieR
   - Saga Metal Gear Solid (1, 2, 3).
+  - Cookie Clicker
 </details>
 
   ![Doom Wallpaper](https://user-images.githubusercontent.com/80423737/155528061-934a9674-8a88-4a97-8abb-8b829c0e7c25.jpg)
