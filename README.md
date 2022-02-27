@@ -45,7 +45,7 @@
 <details>
   <summary> Videojuegos </summary>
   
-  - Saga Dark Souls (1 y 3) y Bloodborne
+  - Saga Dark Souls (1 y 3), Bloodborne y Elden Ring
   - Saga Metro (+ Libros).
   - DOOM y DOOM ETERNAL
   - Saga Deus Ex
