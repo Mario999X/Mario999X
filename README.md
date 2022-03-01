@@ -55,6 +55,17 @@
   - Cookie Clicker
 </details>
 
+<details>
+  <summary> Álbumes de música </summary>
+  
+  - Ghost Reveries (Opeth)
+  - Still Life (Opeth)
+  - 10,000 days (Tool)
+  - Flip Phone Fantasy (Ocean Grove)
+  - Ok Computer (Radiohead)
+  - Heaven or Hell + CHOPNOTSLOP REMIX (Don Toliver)
+</details>
+
   ![Doom Wallpaper](https://user-images.githubusercontent.com/80423737/155528061-934a9674-8a88-4a97-8abb-8b829c0e7c25.jpg)
 
 
