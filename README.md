@@ -33,6 +33,7 @@
   <summary> Anime </summary>
   
   - Death Note (+ Manga).
+  - Monster (+ Manga).
   - Dragon Ball/Z (+ Manga).
   - Cowboy Bebop
   - Ghost In The Shell (Película).
@@ -63,6 +64,7 @@
   - 10,000 days (Tool)
   - Flip Phone Fantasy (Ocean Grove)
   - Ok Computer (Radiohead)
+  - Royal Blood (Royal Blood)
   - Heaven or Hell + CHOPNOTSLOP REMIX (Don Toliver)
 </details>
 
