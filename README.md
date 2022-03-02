@@ -32,14 +32,14 @@
 <details>
   <summary> Anime </summary>
   
-  - Death Note (+ Manga).
-  - Monster (+ Manga).
-  - Dragon Ball/Z (+ Manga).
+  - Death Note (+ Manga)
+  - Monster (+ Manga)
+  - Dragon Ball/Z (+ Manga)
   - Cowboy Bebop
-  - Ghost In The Shell (Película).
-  - Evangelion (Serie + Películas).
-  - One Punch-Man (+ Manga).
-  - Perfect Blue (Película).
+  - Ghost In The Shell (Película)
+  - Evangelion (Serie + Películas)
+  - One Punch-Man (+ Manga)
+  - Perfect Blue (Película)
   - Fate Zero
 </details>
 
@@ -47,12 +47,12 @@
   <summary> Videojuegos </summary>
   
   - Saga Dark Souls (1 y 3), Bloodborne y Elden Ring
-  - Saga Metro (+ Libros).
+  - Saga Metro (+ Libros)
   - DOOM y DOOM ETERNAL
   - Saga Deus Ex
   - Fallout New Vegas
   - Saga NieR
-  - Saga Metal Gear Solid (1, 2, 3).
+  - Saga Metal Gear Solid (1, 2, 3)
   - Cookie Clicker
 </details>
 
