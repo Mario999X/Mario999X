@@ -35,7 +35,7 @@
   - Death Note (+ Manga)
   - Monster (+ Manga)
   - Dragon Ball/Z (+ Manga)
-  - Cowboy Bebop
+  - Cowboy Bebop (+ Película)
   - Ghost In The Shell (Película)
   - Evangelion (Serie + Películas)
   - One Punch-Man (+ Manga)
