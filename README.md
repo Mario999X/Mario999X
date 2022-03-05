@@ -6,7 +6,7 @@
   - Me considero una persona responsable, y a veces demasiado perfeccionista.
 
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario999X&theme=react">
-      <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario999X&theme=react&layout=compact" height="220"/>
+      <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario999X&theme=react&layout=compact" height="220"
     </a> 
 
 ## 🗿 INFORMACIÓN PERSONAL
