@@ -62,6 +62,7 @@
   - Ghost Reveries (Opeth)
   - Still Life (Opeth)
   - 10,000 days (Tool)
+  - Lateralus (Tool)
   - Flip Phone Fantasy (Ocean Grove)
   - Ok Computer (Radiohead)
   - Royal Blood (Royal Blood)
