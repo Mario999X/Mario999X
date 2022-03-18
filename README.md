@@ -25,7 +25,7 @@
   <summary> Manga </summary>
   
   - Berserk
-  - Uzumaki
+  - Uzumaki (+ otras obras de Junji Ito)
   - Dragon Head
   </details>
   
