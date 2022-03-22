@@ -61,6 +61,7 @@
   
   - Ghost Reveries (Opeth)
   - Still Life (Opeth)
+  - In Absentia (Porcupine Tree)
   - 10,000 days (Tool)
   - Lateralus (Tool)
   - Flip Phone Fantasy (Ocean Grove)
