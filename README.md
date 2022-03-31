@@ -63,6 +63,7 @@
   - Still Life (Opeth)
   - 10,000 days (Tool)
   - Lateralus (Tool)
+  - Second Life Syndrome (Riverside)
   - Flip Phone Fantasy (Ocean Grove)
   - Ok Computer (Radiohead)
   - Royal Blood (Royal Blood)
