@@ -69,7 +69,6 @@
   - Still Life (Opeth)
   - 10,000 days (Tool)
   - Lateralus (Tool)
-  - Immutable (Meshuggah)
   - Ok Computer (Radiohead)
   - Heaven or Hell + CHOPNOTSLOP REMIX (Don Toliver)
 </details>
