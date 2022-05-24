@@ -16,16 +16,6 @@
   - BLOODBORNE es el mejor juego de la historia.
   - Me encanta la temática cyberpunk y apocalíptico en obras de ficción.
 
-## 👓 PERFILES PERSONALES
-<p align="center">
-  <a href="https://steamcommunity.com/profiles/76561198149636624/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" height="50" />
-  </a>
-  <a href="https://open.spotify.com/user/elmario999hunter?si=0ecd1d74ecbd424b">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" height="50" />
-  </a>
-</p>
-
 ## 🎬 OBRAS FAVORITAS
 <details>
   <summary> Manga </summary>
