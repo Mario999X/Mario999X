@@ -10,7 +10,7 @@
     </a> 
 
 ## 🗿 INFORMACIÓN PERSONAL
-  - Actualmente tengo 20 años.
+  - Actualmente tengo 21 años.
   - 13 años de experiencia aprendiendo Karate.
   - Me apasiona el mundo de la tecnología.
   - BLOODBORNE es el mejor juego de la historia.
