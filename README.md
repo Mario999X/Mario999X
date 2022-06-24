@@ -58,7 +58,7 @@
   - Ghost Reveries (Opeth)
   - Still Life (Opeth)
   - 10,000 days (Tool)
-  - Lateralus (Tool)
+  - The Great Cold Distance (Katatonia)
   - Ok Computer (Radiohead)
   - Heaven or Hell + CHOPNOTSLOP REMIX (Don Toliver)
 </details>
