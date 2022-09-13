@@ -2,7 +2,7 @@
 
 ## 💻 INFORMACIÓN PROFESIONAL
   - Actualmente cursando DAM, en el centro IES Luis Vives.
-  - Aprendiendo Java, Python y CSS; y su uso en aplicaciones de escritorio y Android.
+  - Aprendiendo Java, Kotlin, Python y CSS; y su uso en aplicaciones de escritorio y Android.
   - Me considero una persona responsable, tranquila, y a veces demasiado perfeccionista.
 
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario999X&theme=react">
@@ -58,7 +58,7 @@
   - Ghost Reveries (Opeth)
   - Still Life (Opeth)
   - 10,000 days (Tool)
-  - The Great Cold Distance (Katatonia)
+  - Lykaia (Soen)
   - Ok Computer (Radiohead)
   - Heaven or Hell + CHOPNOTSLOP REMIX (Don Toliver)
 </details>
