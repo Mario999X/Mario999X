@@ -63,7 +63,7 @@
   - Heaven or Hell + CHOPNOTSLOP REMIX (Don Toliver)
 </details>
 
- ## 😎 Compañer@s mamadísimos
+ ## 😎 Compañer@s
   - [Alex](https://github.com/alexlaso)
   - [Dylan](https://github.com/DyLaNHurtado)
   - [Laura](https://github.com/LAURAQMDAM)
