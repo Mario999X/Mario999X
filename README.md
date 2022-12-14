@@ -3,7 +3,7 @@
 ## 💻 INFORMACIÓN PROFESIONAL
   - Actualmente cursando DAM, en el centro IES Luis Vives.
   - Aprendiendo Java, Kotlin, Python y CSS; y su uso en aplicaciones de escritorio y Android.
-  - Aprendiendo c# (Godot).
+  - Aprendiendo C# (Godot).
   - Me considero una persona responsable, tranquila, y a veces demasiado perfeccionista.
 
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario999X&theme=react">
