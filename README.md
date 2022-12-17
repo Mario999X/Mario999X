@@ -8,7 +8,9 @@
   - Java
   - Kotlin
   - Python
+  <!--
   - C#
+-->
 </details>
 
   - Me considero una persona responsable, tranquila, y a veces demasiado perfeccionista.
@@ -21,7 +23,7 @@
   - Actualmente tengo 21 años.
   - 13 años de experiencia aprendiendo Karate.
   - Me apasiona el mundo de la tecnología.
-  - BLOODBORNE es el mejor juego de la historia.
+  - BLOODBORNE me parece el mejor juego de la historia.
   - Me encanta la temática cyberpunk y apocalíptico en obras de ficción.
 
 ## 🎬 OBRAS FAVORITAS
@@ -52,11 +54,10 @@
   
   - Saga Dark Souls (1 y 3), Bloodborne y Elden Ring
   - Saga Metro (+ Libros)
-  - DOOM y DOOM ETERNAL
   - Saga Deus Ex
   - Fallout New Vegas
   - Saga NieR
-  - Saga Metal Gear Solid (1, 2, 3)
+  - Saga Metal Gear Solid
   - Cookie Clicker
 </details>
 
@@ -66,7 +67,7 @@
   - Ghost Reveries (Opeth)
   - Still Life (Opeth)
   - 10,000 days (Tool)
-  - Lykaia (Soen)
+  - Dead End Kings (Katatonia)
   - Ok Computer (Radiohead)
   - Heaven or Hell + CHOPNOTSLOP REMIX (Don Toliver)
 </details>
