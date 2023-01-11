@@ -8,9 +8,7 @@
   - Java
   - Kotlin
   - Python
-  <!--
   - C#
--->
 </details>
 
   - Me considero una persona responsable, tranquila, y a veces demasiado perfeccionista.
