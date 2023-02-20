@@ -25,27 +25,6 @@
   - Me encanta la temática cyberpunk y apocalíptico en obras de ficción.
 
 ## 🎬 OBRAS FAVORITAS
-<details>
-  <summary> Manga </summary>
-  
-  - Berserk
-  - Uzumaki (+ otras obras de Junji Ito)
-  - Dragon Head
-  </details>
-  
-<details>
-  <summary> Anime </summary>
-  
-  - Death Note (+ Manga)
-  - Monster (+ Manga)
-  - Dragon Ball/Z (+ Manga)
-  - Cowboy Bebop (+ Película)
-  - Ghost In The Shell (Película)
-  - Evangelion (Serie + Películas)
-  - One Punch-Man (+ Manga)
-  - Perfect Blue (Película)
-  - Fate Zero
-</details>
 
 <details>
   <summary> Videojuegos </summary>
