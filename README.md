@@ -17,6 +17,7 @@
   - Spring
   - Exposed
   - Hibernate
+  - Ktor
 </details>
 
   - Me considero una persona responsable, tranquila, y a veces demasiado perfeccionista.
