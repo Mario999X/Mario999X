@@ -3,12 +3,20 @@
 ## 💻 INFORMACIÓN PROFESIONAL
   - Actualmente cursando DAM, en el centro IES Luis Vives.
 <details>
-  <summary> Lenguajes de programación</summary>
+  <summary> Lenguajes de programación </summary>
   
   - Java
   - Kotlin
   - Python
   - C#
+</details>
+
+<details>
+  <summary> Frameworks </summary>
+  
+  - Spring
+  - Exposed
+  - Hibernate
 </details>
 
   - Me considero una persona responsable, tranquila, y a veces demasiado perfeccionista.
