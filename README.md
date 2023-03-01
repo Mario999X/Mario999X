@@ -1,7 +1,13 @@
 # Hello there 👋
 
 ## 💻 INFORMACIÓN PROFESIONAL
-  - Actualmente cursando DAM, en el centro IES Luis Vives.
+### Educación
+
+  - IES Luis Vives, Leganés, Madrid (2020-actualmente)
+    - Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
+  - IES Butarque, Leganés, Madrid (2013-2020)
+    - Bachiller (Ciencias) & ESO
+   
 <details>
   <summary> Lenguajes de programación </summary>
   
