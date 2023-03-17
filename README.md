@@ -14,7 +14,6 @@
   - Java
   - Kotlin
   - Python
-  - C#
 </details>
 
 <details>
