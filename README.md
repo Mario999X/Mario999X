@@ -33,11 +33,11 @@
   - [Curso de C# para principiantes](https://openwebinars.net/cert/JzN1?r=d8450973d&t=1679778972)
 </details>
 
-  - Me considero una persona responsable, tranquila, y a veces demasiado perfeccionista.
+Me considero una persona responsable, tranquila, y a veces demasiado perfeccionista.
 
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario999X&theme=react">
-      <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario999X&theme=react&layout=compact" height="220" />
-    </a> 
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario999X&theme=react">
+     <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario999X&theme=react&layout=compact" height="220" />
+   </a> 
 
 ## 🗿 INFORMACIÓN PERSONAL
   - Actualmente tengo 21 años.
