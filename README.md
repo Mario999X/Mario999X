@@ -25,13 +25,19 @@
   - Ktor
 </details>
 
+<details>
+  <summary> Certificados OpenWebinars </summary>
+  
+  - [Curso Java 8 desde 0](https://openwebinars.net/cert/1XnqP?r=d8450973d&t=1679778972)
+  - [Curso de desarrollo de una API REST con Spring Boot](https://openwebinars.net/cert/vmDM?r=d8450973d&t=1679778972)
+  - [Curso de C# para principiantes](https://openwebinars.net/cert/JzN1?r=d8450973d&t=1679778972)
+</details>
+
   - Me considero una persona responsable, tranquila, y a veces demasiado perfeccionista.
 
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario999X&theme=react">
       <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario999X&theme=react&layout=compact" height="220" />
     </a> 
-    
-   - ### [Certificados OpenWebinars](https://openwebinars.net/cert/1XnqP?r=d8450973d&t=1679778972)
 
 ## 🗿 INFORMACIÓN PERSONAL
   - Actualmente tengo 21 años.
