@@ -30,6 +30,8 @@
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario999X&theme=react">
       <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario999X&theme=react&layout=compact" height="220" />
     </a> 
+    
+   - ### [Certificados OpenWebinars](https://openwebinars.net/cert/1XnqP?r=d8450973d&t=1679778972)
 
 ## 🗿 INFORMACIÓN PERSONAL
   - Actualmente tengo 21 años.
