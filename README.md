@@ -38,7 +38,9 @@ Me considero una persona responsable, tranquila, y a veces demasiado perfeccioni
 
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario999X&theme=react">
      <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario999X&theme=react&layout=compact" height="220" />
-   </a> 
+   </a>
+   
+   [![https://github-readme-stats.vercel.app/api?username=rA9stuff&show_icons=true](https://github-readme-stats.vercel.app/api?username=Mario999X&show_icons=true&theme=dark)](https://github.com/Mario999X)
 
 ## 🗿 INFORMACIÓN PERSONAL
   - Actualmente tengo 21 años.
