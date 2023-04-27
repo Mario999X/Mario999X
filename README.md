@@ -1,9 +1,5 @@
 # Hello there 👋
 
-![](https://komarev.com/ghpvc/?username=Mario999X)
-<img src="https://img.shields.io/github/stars/Mario999X?label=Stars" alt="stars">
-<img alt="followers" src="https://img.shields.io/github/followers/Mario999X?label=Followers&style=social">
-
 ## 💻 INFORMACIÓN PROFESIONAL
 ### Educación
 
