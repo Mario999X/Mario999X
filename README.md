@@ -1,5 +1,11 @@
 # Hello there 👋
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Mario999X&label=Profile%20views&color=42b983&style=flat" />
+  <img src="https://img.shields.io/github/followers/Mario999X?style=social" />
+  <img src="https://img.shields.io/github/stars/Mario999X?style=social" />
+</p>
+
 ## 💻 INFORMACIÓN PROFESIONAL
 ### Educación
 
@@ -73,6 +79,7 @@ Me considero una persona responsable, tranquila, y a veces demasiado perfeccioni
   - [Dylan](https://github.com/DyLaNHurtado)
   - [Sebastián](https://github.com/SebsMendoza)
   - [Loli](https://github.com/Idliketobealoli)
+  
   
   ![Doom Wallpaper](https://user-images.githubusercontent.com/80423737/155528061-934a9674-8a88-4a97-8abb-8b829c0e7c25.jpg)
 
