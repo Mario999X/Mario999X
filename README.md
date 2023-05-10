@@ -43,7 +43,7 @@
 Me considero una persona responsable, tranquila, y a veces demasiado perfeccionista.
 
 ## 🗿 INFORMACIÓN PERSONAL
-  - Actualmente tengo 21 años.
+  - Nací el 28/05/2001
   - 13 años de experiencia aprendiendo Karate.
   - Me apasiona el mundo de la tecnología, en especial los videjuegos y las Inteligencias Artificiales.
   - BLOODBORNE me parece el mejor juego de la historia.
