@@ -1,9 +1,9 @@
 # Hello there 👋
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Mario999X&label=Profile%20views&color=42b983&style=flat" />
-  <img src="https://img.shields.io/github/followers/Mario999X?style=social" />
-  <img src="https://img.shields.io/github/stars/Mario999X?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=Mario999X&label=Profile%20views&color=42b983&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Mario999X?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Mario999X?style=for-the-badge" />
 </p>
 
 ## 💻 INFORMACIÓN PROFESIONAL
