@@ -9,10 +9,19 @@
 ## 💻 INFORMACIÓN PROFESIONAL
 ### Educación
 
-  - IES Luis Vives, Leganés, Madrid (2020-actualmente)
+  - IES Luis Vives, Leganés, Madrid (2020-2023)
     - Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
   - IES Butarque, Leganés, Madrid (2013-2020)
     - Bachiller (Ciencias) & ESO
+
+<details>
+  <summary> Certificados </summary>
+
+  - [Kotlin Developer For Backend](Certs/Gonzalez_Resa_Mario_signed_Kotlin_Cert.pdf)
+  - [Curso Java 8 desde 0](Certs/certificado_curso_de_java_8_desde_cero.pdf)
+  - [Curso de desarrollo de una API REST con Spring Boot](Certs/certificado_curso_de_desarrollo_de_una_api_rest_con_spring_boot.pdf)
+  - [Curso de C# para principiantes](Certs/certificado_curso_de_c%23_para_principiantes.pdf)
+</details>
    
 <details>
   <summary> Lenguajes de programación </summary>
@@ -30,14 +39,7 @@
   - Exposed
   - Hibernate
   - Ktor
-</details>
-
-<details>
-  <summary> Certificados OpenWebinars </summary>
-  
-  - [Curso Java 8 desde 0](https://openwebinars.net/cert/1XnqP?r=d8450973d&t=1679778972)
-  - [Curso de desarrollo de una API REST con Spring Boot](https://openwebinars.net/cert/vmDM?r=d8450973d&t=1679778972)
-  - [Curso de C# para principiantes](https://openwebinars.net/cert/JzN1?r=d8450973d&t=1679778972)
+  - ASP.NET Core
 </details>
 
 Me considero una persona responsable, tranquila, y a veces demasiado perfeccionista.
