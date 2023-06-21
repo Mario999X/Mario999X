@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/stars/Mario999X?style=for-the-badge" />
 </p>
 
-## 💻 INFORMACIÓN PROFESIONAL
+## 💻 INFORMACIÓN PROFESIONAL 
 ### Educación
 
   - IES Luis Vives, Leganés, Madrid (2020-2023)
@@ -51,38 +51,14 @@ Me considero una persona responsable, tranquila, y a veces demasiado perfeccioni
   - BLOODBORNE me parece el mejor juego de la historia.
   - Me encanta la temática cyberpunk y apocalíptico en obras de ficción.
 
-## 🎬 OBRAS FAVORITAS
-
-<details>
-  <summary> Videojuegos </summary>
-  
-  - Saga Dark Souls (1 y 3), Bloodborne y Elden Ring
-  - Saga Metro (+ Libros)
-  - Saga Deus Ex
-  - Fallout New Vegas
-  - Saga NieR
-  - Saga Metal Gear Solid
-  - Cookie Clicker
-</details>
-
-<details>
-  <summary> Álbumes de música </summary>
-  
-  - Ghost Reveries (Opeth)
-  - Still Life (Opeth)
-  - 10,000 days (Tool)
-  - Dead End Kings (Katatonia)
-  - Ok Computer (Radiohead)
-  - Heaven or Hell + CHOPNOTSLOP REMIX (Don Toliver)
-</details>
-
  ## 😎 Compañer@s
   - [Alex](https://github.com/alexlaso)
   - [Dylan](https://github.com/DyLaNHurtado)
   - [Sebastián](https://github.com/SebsMendoza)
   - [Loli](https://github.com/Idliketobealoli)
   
-  
+  ---
+
   ![Doom Wallpaper](https://user-images.githubusercontent.com/80423737/155528061-934a9674-8a88-4a97-8abb-8b829c0e7c25.jpg)
 
 
