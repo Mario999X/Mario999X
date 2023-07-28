@@ -6,25 +6,25 @@
   <img src="https://img.shields.io/github/stars/Mario999X?style=for-the-badge" />
 </p>
 
-## 💻 INFORMACIÓN PROFESIONAL 
-### Educación
+## 💻 PROFESSIONAL INFORMATION
+### Education
 
   - IES Luis Vives, Leganés, Madrid (2020-2023)
-    - Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
+    - Senior Technician in Multiplatform Application Development
   - IES Butarque, Leganés, Madrid (2013-2020)
-    - Bachiller (Ciencias) & ESO
+    - High School Diploma (Science)
 
 <details>
-  <summary> Certificados </summary>
+  <summary> Certificates </summary>
 
   - [Kotlin Developer For Backend](Certs/Gonzalez_Resa_Mario_signed_Kotlin_Cert.pdf)
-  - [Curso Java 8 desde 0](Certs/certificado_curso_de_java_8_desde_cero.pdf)
-  - [Curso de desarrollo de una API REST con Spring Boot](Certs/certificado_curso_de_desarrollo_de_una_api_rest_con_spring_boot.pdf)
-  - [Curso de C# para principiantes](Certs/certificado_curso_de_c%23_para_principiantes.pdf)
+  - [Java 8 course from 0](Certs/certificado_curso_de_java_8_desde_cero.pdf)
+  - [Development course of a REST API with Spring Boot](Certs/certificado_curso_de_desarrollo_de_una_api_rest_con_spring_boot.pdf)
+  - [C# course for beginners](Certs/certificado_curso_de_c%23_para_principiantes.pdf)
 </details>
    
 <details>
-  <summary> Lenguajes de programación </summary>
+  <summary> Programming languages </summary>
   
   - Java
   - Kotlin
@@ -43,22 +43,22 @@
 </details>
 
 <details>
-  <summary> Motores Gráficos </summary>
+  <summary> Graphic Engines </summary>
 
   - Godot
   - Unity
 </details>
 
-Me considero una persona responsable, tranquila, y a veces demasiado perfeccionista.
+I consider myself a responsible, calm person, and sometimes too much of a perfectionist.
 
-## 🗿 INFORMACIÓN PERSONAL
-  - Nací el 28/05/2001
-  - 13 años de experiencia aprendiendo Karate.
-  - Me apasiona el mundo de la tecnología, en especial los videjuegos y las Inteligencias Artificiales.
-  - BLOODBORNE me parece el mejor juego de la historia.
-  - Me encanta la temática cyberpunk y apocalíptico en obras de ficción.
+## 🗿 PERSONAL INFORMATION
+  - I was born on 05/28/2001.
+  - 13 years of experience learning Karate.
+  - I am passionate about the world of technology, especially video games and Artificial Intelligence.
+  - BLOODBORNE seems to me the best game ever.
+  - I love cyberpunk and apocalyptic themes in works of fiction.
 
- ## 😎 Compañer@s
+ ## 😎 Classmates
   - [Alex](https://github.com/alexlaso)
   - [Dylan](https://github.com/DyLaNHurtado)
   - [Sebastián](https://github.com/SebsMendoza)
