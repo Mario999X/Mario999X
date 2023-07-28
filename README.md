@@ -42,6 +42,13 @@
   - ASP.NET Core
 </details>
 
+<details>
+  <summary> Motores Gráficos </summary>
+
+  - Godot
+  - Unity
+</details>
+
 Me considero una persona responsable, tranquila, y a veces demasiado perfeccionista.
 
 ## 🗿 INFORMACIÓN PERSONAL
