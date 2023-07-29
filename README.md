@@ -43,7 +43,7 @@
 </details>
 
 <details>
-  <summary> Graphic Engines </summary>
+  <summary> Game Engines </summary>
 
   - Godot
   - Unity
