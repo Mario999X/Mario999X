@@ -7,12 +7,21 @@
 </p>
 
 ## 💻 PROFESSIONAL INFORMATION
-### Education
+
+### 🛠️ Working Experience
+
+- Software Developer in practice (GoSupply, Madrid) - (March 2023 - June 2023)
+  -  Complete development of a monitoring system for the different services offered.
+  -  Assistant in cybersecurity tasks.
+
+### 🏫 Education
 
   - IES Luis Vives, Leganés, Madrid (2020-2023)
     - Senior Technician in Multiplatform Application Development
   - IES Butarque, Leganés, Madrid (2013-2020)
     - High School Diploma (Science)
+
+### 📜 General Information
 
 <details>
   <summary> Certificates </summary>
@@ -48,8 +57,6 @@
   - Godot
   - Unity
 </details>
-
-I consider myself a responsible, calm person, and sometimes too much of a perfectionist.
 
 ## 🗿 PERSONAL INFORMATION
   - I was born on 05/28/2001.
