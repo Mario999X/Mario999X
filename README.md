@@ -14,7 +14,7 @@
   -  Complete development of a monitoring system for the different services offered.
   -  Assistant in cybersecurity tasks.
 
-### 🏫 Education
+### 📚 Education
 
   - IES Luis Vives, Leganés, Madrid (2020-2023)
     - Senior Technician in Multiplatform Application Development
