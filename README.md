@@ -15,7 +15,8 @@
   -  Assistant in cybersecurity tasks.
 
 ### 📚 Education
-
+  - IES La Arboleda, Alcorcón, Madrid (2023-Actualmente)
+    - Specialization Course in Video Game Development and Virtual Reality
   - IES Luis Vives, Leganés, Madrid (2020-2023)
     - Senior Technician in Multiplatform Application Development
   - IES Butarque, Leganés, Madrid (2013-2020)
