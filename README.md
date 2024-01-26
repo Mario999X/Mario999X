@@ -23,7 +23,7 @@
     - High School Diploma (Science)
 
 ### 👾 Games Published
-- [Sp4ce Survival - Itch.io](https://mario999x.itch.io/sp4ce-survival)
+- Sp4ce Survival - [Itch.io](https://mario999x.itch.io/sp4ce-survival)
 
 ### 📜 General Information
 
