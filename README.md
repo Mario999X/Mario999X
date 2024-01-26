@@ -14,6 +14,9 @@
   -  Complete development of a monitoring system for the different services offered.
   -  Assistant in cybersecurity tasks.
 
+### 👾 Games Published
+- Sp4ce Survival - [Itch.io](https://mario999x.itch.io/sp4ce-survival)
+
 ### 📚 Education
   - IES La Arboleda, Alcorcón, Madrid (2023)
     - Specialization Course in Video Game Development and Virtual Reality
@@ -21,9 +24,6 @@
     - Senior Technician in Multiplatform Application Development
   - IES Butarque, Leganés, Madrid (2013-2020)
     - High School Diploma (Science)
-
-### 👾 Games Published
-- Sp4ce Survival - [Itch.io](https://mario999x.itch.io/sp4ce-survival)
 
 ### 📜 General Information
 
