@@ -7,6 +7,7 @@
 </p>
 
 ## 💻 PROFESSIONAL INFORMATION
+### 📧 Contact email: mariogr901laboral@gmail.com
 
 ### 🛠️ Working Experience
 
