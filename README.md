@@ -19,7 +19,7 @@
 - Sp4ce Survival - [Itch.io](https://mario999x.itch.io/sp4ce-survival)
 
 ### 📚 Education
-  - IES La Arboleda, Alcorcón, Madrid (2023)
+  - IES La Arboleda, Alcorcón, Madrid (2023-2024)
     - Specialization Course in Video Game Development and Virtual Reality
   - IES Luis Vives, Leganés, Madrid (2020-2023)
     - Senior Technician in Multiplatform Application Development
