@@ -21,11 +21,11 @@
 
 ### 📚 Education
   - IES La Arboleda, Alcorcón, Madrid (2023-2024)
-    - Specialization Course in Video Game Development and Virtual Reality
+    - Specialization in Video Game Development and Virtual Reality.
   - IES Luis Vives, Leganés, Madrid (2020-2023)
-    - Senior Technician in Multiplatform Application Development
+    - Senior Technician in Multiplatform Application Development.
   - IES Butarque, Leganés, Madrid (2013-2020)
-    - High School Diploma (Science)
+    - High School Diploma (Science).
 
 ### 📜 General Information
 
