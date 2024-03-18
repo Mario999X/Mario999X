@@ -15,9 +15,9 @@
   -  Complete development of a monitoring system for the different services offered.
   -  Assistant in cybersecurity tasks.
 
-### 👾 Games Published
-- Sp4ce Survival - [Itch.io](https://mario999x.itch.io/sp4ce-survival)
+### 🎮 Games Published
 - Demonic Loop - [Itch.io](https://demonicloopdev.itch.io/demonic-loop)
+- Sp4ce Survival - [Itch.io](https://mario999x.itch.io/sp4ce-survival)
 
 ### 📚 Education
   - IES La Arboleda, Alcorcón, Madrid (2023-2024)
