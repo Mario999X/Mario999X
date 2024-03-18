@@ -24,7 +24,7 @@
     - Specialization in Video Game Development and Virtual Reality.
   - IES Luis Vives, Leganés, Madrid (2020-2023)
     - Senior Technician in Multiplatform Application Development.
-  - IES Butarque, Leganés, Madrid (2013-2020)
+  - IES Butarque, Leganés, Madrid (2017-2020)
     - High School Diploma (Science).
 
 ### 📜 General Information
