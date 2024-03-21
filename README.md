@@ -61,7 +61,7 @@
   <summary> Game Engines </summary>
 
   - Unity
-  - Godot 3/4
+  - Godot
   - RPG Maker MV
 </details>
 
