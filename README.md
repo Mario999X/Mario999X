@@ -16,8 +16,8 @@
   -  Assistant in cybersecurity tasks.
 
 ### 🎮 Games Published
-- Demonic Loop - [Itch.io](https://demonicloopdev.itch.io/demonic-loop) [Windows] - [Unity]
-- Sp4ce Survival - [Itch.io](https://mario999x.itch.io/sp4ce-survival) [Windows, Linux] - [Godot]
+- Demonic Loop - [Itch.io](https://demonicloopdev.itch.io/demonic-loop) - [Unity]
+- Sp4ce Survival - [Itch.io](https://mario999x.itch.io/sp4ce-survival) - [Godot]
 
 ### 📚 Education
   - IES La Arboleda, Alcorcón, Madrid (2023-2024)
