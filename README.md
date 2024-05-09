@@ -11,10 +11,10 @@
 
 ### 🛠️ Working Experience
 
+- Game Tester (Zero Latency, Madrid) - (April 2024 - May 2024)
 - Software Developer (GoSupply, Madrid) - (March 2023 - June 2023)
   -  Complete development of a monitoring system for the different services offered.
   -  Assistant in cybersecurity tasks.
-- Game Tester (Zero Latency, Madrid) - (April 2024 - May 2024)
 
 ### 🎮 Games Published
 - Demonic Loop - [Itch.io](https://demonicloopdev.itch.io/demonic-loop) - [Unity]
