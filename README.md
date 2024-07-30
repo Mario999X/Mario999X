@@ -27,7 +27,7 @@
   - IES Luis Vives, Leganés, Madrid (2020-2023)
     - Senior Technician in Multiplatform Application Development.
   - IES Butarque, Leganés, Madrid (2017-2020)
-    - High School Diploma (Science).
+    - Bachelor of Science
 
 ### 📜 General Information
 
