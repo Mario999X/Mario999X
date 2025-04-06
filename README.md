@@ -12,8 +12,8 @@
 ### 🛠️ Working Experience
 
 - Software developer (flowww, Madrid) (September 2024 - Present)
-  - Technical support and data migrations.
-  - MySQL, PL/SQ
+  - Software technical support and data migrations, MySQL.
+  - Company PC technical support.
 - Software Tester in VR Games (Zero Latency, Madrid) - (April 2024 - May 2024)
   - Immersion, motion sickness, eye fatigue, latency, tracking and gaming area tests in the different games offered.
 - Software Developer (GoSupply, Madrid) - (March 2023 - June 2023)
@@ -21,8 +21,8 @@
   - Complete development of an error monitoring system for business services, both external and internal.
 
 ### 🎮 Games Published
-- Demonic Loop - [Itch.io](https://demonicloopdev.itch.io/demonic-loop) - [Unity]
-- Sp4ce Survival - [Itch.io](https://mario999x.itch.io/sp4ce-survival) - [Godot]
+- [Demonic Loop](https://github.com/Mario999X/DemonicLoop) - [Itch.io](https://demonicloopdev.itch.io/demonic-loop) - [Unity]
+- [Sp4ce Survival](https://github.com/Mario999X/ProyectoFinalDAM_MarioResa) - [Itch.io](https://mario999x.itch.io/sp4ce-survival) - [Godot]
 
 ### 📚 Education
   - IES La Arboleda, Alcorcón, Madrid (2023-2024)
