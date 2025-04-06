@@ -11,11 +11,14 @@
 
 ### 🛠️ Working Experience
 
+- Software developer (flowww, Madrid) (September 2024 - Present)
+  - Technical support and data migrations.
+  - MySQL, PL/SQ
 - Software Tester in VR Games (Zero Latency, Madrid) - (April 2024 - May 2024)
   - Immersion, motion sickness, eye fatigue, latency, tracking and gaming area tests in the different games offered.
 - Software Developer (GoSupply, Madrid) - (March 2023 - June 2023)
-  -  Assistant in cybersecurity tasks.
-  -  Complete development of an error monitoring system for business services, both external and internal.
+  - Assistant in cybersecurity tasks.
+  - Complete development of an error monitoring system for business services, both external and internal.
 
 ### 🎮 Games Published
 - Demonic Loop - [Itch.io](https://demonicloopdev.itch.io/demonic-loop) - [Unity]
