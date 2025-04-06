@@ -11,7 +11,7 @@
 
 ### 🛠️ Working Experience
 
-- Software developer (flowww, Madrid) (September 2024 - Present)
+- Software Developer (flowww, Madrid) (September 2024 - Present)
   - Software technical support and data migrations, MySQL.
   - Company PC technical support.
 - Software Tester in VR Games (Zero Latency, Madrid) - (April 2024 - May 2024)
