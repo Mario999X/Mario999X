@@ -11,9 +11,11 @@
 
 ### 🛠️ Working Experience
 
-- Software Developer (flowww, Madrid) (September 2024 - Present)
-  - Software technical support and data migrations, MySQL.
-  - Company PC technical support.
+- SQL Technical Support (flowww, Madrid) (September 2024 - Present)
+  - Technical support for business software.
+  - Ticket management in HubSpot and Azure for incidents, investigations, and bugs.
+  - Data management, cleansing, and importing (migrations from external software to the company software).
+  - Equipment management (laptops, headsets, etc).
 - Software Tester in VR Games (Zero Latency, Madrid) - (April 2024 - May 2024)
   - Immersion, motion sickness, eye fatigue, latency, tracking and gaming area tests in the different games offered.
 - Software Developer (GoSupply, Madrid) - (March 2023 - June 2023)
@@ -44,12 +46,13 @@
 </details>
    
 <details>
-  <summary> Programming languages </summary>
+  <summary> Programming languages and tools</summary>
   
   - Java
   - Kotlin
   - C#
   - Python
+  - SQL (MySQL, PostgreSQL)
 </details>
 
 <details>
