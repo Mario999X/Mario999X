@@ -11,7 +11,7 @@
 
 ### 🛠️ Working Experience
 
-- SQL Technical Support (flowww, Madrid) (September 2024 - Present)
+- SQL Technical Support (flowww, Madrid) (September 2024 - September 2025)
   - Technical support for business software.
   - Ticket management in HubSpot and Azure for incidents, investigations, and bugs.
   - Data management, cleansing, and importing (migrations from external software to the company software).
