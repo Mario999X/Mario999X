@@ -74,7 +74,6 @@
 </details>
 
 ## 🗿 PERSONAL INFORMATION
-  - I was born on 05/28/2001.
   - 13 years of experience learning Karate.
   - I am passionate about the world of technology, especially video games and Artificial Intelligence.
   - BLOODBORNE seems to me the best game ever.
