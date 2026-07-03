@@ -11,6 +11,7 @@
 
 ### 🛠️ Working Experience
 
+- Project Technician - Programmer Analyst (Airtificial) (July 2026 - Present)
 - SQL Technical Support (flowww, Madrid) (September 2024 - September 2025)
   - Technical support for business software.
   - Ticket management in HubSpot and Azure for incidents, investigations, and bugs.
